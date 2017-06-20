@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## AVK FURNITURES & APPLIANCES
 
 You can use the [editor on GitHub](https://github.com/CarolGeorge/avkfurnitures.github.in/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
